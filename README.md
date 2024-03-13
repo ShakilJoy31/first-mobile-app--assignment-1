@@ -1,0 +1,1 @@
+This is an assignment project made with react native. 
